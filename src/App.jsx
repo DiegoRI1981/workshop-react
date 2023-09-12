@@ -6,7 +6,6 @@ import { LaunchDetails } from './components/LaunchDetails'
 import { RocketDetails } from './components/RocketDetails'
 
 export function App() {
-
   return (
     <>
       <Image m={4} src={logo} width={200} alt="spaceX logo" />

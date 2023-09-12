@@ -30,7 +30,6 @@ export function LaunchDetails() {
                         Rocket:{" "} <Link to={`/rockets/${launch.rocket?.rocket_id}`}>{launch.rocket?.rocket_name}</Link>
                     </Box>
                 </>
-
             )}
         </Box>
     )

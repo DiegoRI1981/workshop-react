@@ -2,8 +2,6 @@ import { FaCalendarAlt } from 'react-icons/fa';
 import { Link } from "react-router-dom"
 import { Box, Flex, Text, Tag, Spacer, Button, Icon } from '@chakra-ui/react'
 
-
-
 export function LaunchItems(launch) {
     return (
         <Box bg='gray.100' p={4} m={4} borderRadius='lg'>
